@@ -1,3 +1,4 @@
 Welcome to first forked project
 
-New line added
+New line included
+second line added locally by manager
